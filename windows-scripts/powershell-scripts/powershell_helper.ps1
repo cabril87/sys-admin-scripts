@@ -8,8 +8,7 @@
     
 .EXAMPLE
     .\PowerShellHelper.ps1
-    Launches the interactive PowerShell helper menu.
-    
+    Launches the interactive PowerShell helper menu.  
 #>
 
 function Show-CommandHelper {
