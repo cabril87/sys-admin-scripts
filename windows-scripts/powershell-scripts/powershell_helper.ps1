@@ -10,9 +10,6 @@
     .\PowerShellHelper.ps1
     Launches the interactive PowerShell helper menu.
     
-.NOTES
-    Author: Claude
-    Date: April 1, 2025
 #>
 
 function Show-CommandHelper {
